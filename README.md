@@ -33,13 +33,13 @@ Highlight gaps in the inventory and optimize stock levels.
 
 # Project Result
 
-[Click here to get full code](https://github.com/MaithiliGajbhiye/Maven_Movies_Rental_Business_DA/blob/main/MOVIES_RENTAL_CODE.sql)
+[Click here to get full code](https://github.com/mahalaxmi111/mavenMovieSQL/blob/main/MOVIES_RENTAL_CODE.sql)
 
 # Query Task
 
 1. "How can we extract the first name, last name, and email address of all customers to prepare a comprehensive contact list for the marketing team?"
 
-<img src="./IMAGES/email.png" alt="email.png" width="400"/> &nbsp;
+<img src="https://github.com/mahalaxmi111/mavenMovieSQL/blob/main/output_image/email.png" alt="email.png" width="400"/> &nbsp;
 
 
 2. "What is the total number of movies in the inventory that are available for rent at the lowest rental rate of $0.99?"
